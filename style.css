@@ -1,0 +1,19 @@
+.intro{
+    width: 100%;
+    font-size: 26px;
+    margin-top: 0px;
+}
+#note{
+    font-size: 18px;
+}
+#audio{
+    height: 53px;
+    width: 99px;
+    font-size: 16px;
+}
+canvas{
+    margin-top: 150px;
+    border-color: rgb(255, 255, 0);
+    border-width: 11px;
+    border-style: double;
+}
